@@ -1,2 +1,0 @@
-# Capstone-Portfolio
-Portfolio-Website 
